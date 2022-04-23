@@ -135,6 +135,11 @@ hash = "f7b6fff3b0f2260f4bb3c6971a3c15e48ec2fcd449658a3c44b8a011580e230c"
 metafile = true
 
 [[files]]
+file = "mods/axes-are-weapons.toml"
+hash = "3c717ff2d339458af0565559ec2b2bf85d4105929586998d544df9b0048284b3"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.toml"
 hash = "85f3ba11c05d688f772f04f226eb010bc4d667b7da987182e15aca89a578f3c9"
 metafile = true
