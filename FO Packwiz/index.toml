@@ -300,11 +300,6 @@ hash = "9ab8949bcb4280b1a4b97d40ded17b4786a6c4db1271c121a7fc52ea6f838e0e"
 metafile = true
 
 [[files]]
-file = "mods/item-scroller.toml"
-hash = "a2900e9ba2a353c4b3c7ea6f69160ff9e3ae8ffc6dff47e177bf1b96a1e8a926"
-metafile = true
-
-[[files]]
 file = "mods/krypton.toml"
 hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
@@ -357,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/more-chat-history.toml"
 hash = "6e491af660315658150add9c80d9ba6936563e6f55c45ee0aad5bdb0737e6fa8"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.toml"
+hash = "18e96dad454288e6de4eb8e8fb519c1147e67f49a629cfd005f1a28488be76a6"
 metafile = true
 
 [[files]]
