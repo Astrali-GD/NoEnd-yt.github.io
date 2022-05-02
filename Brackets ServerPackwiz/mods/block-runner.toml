@@ -1,0 +1,13 @@
+name = "Block Runner  [Fabric]"
+filename = "BlockRunner-v3.0.2-1.18.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3707/584/BlockRunner-v3.0.2-1.18.2-Fabric.jar"
+hash-format = "sha1"
+hash = "4c0fcd817a1d7df664f0e98d239e72cf39c88be4"
+
+[update]
+[update.curseforge]
+file-id = 3707584
+project-id = 596942

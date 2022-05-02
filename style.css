@@ -1,0 +1,13 @@
+/* make it so the navbar doesn't scroll with the page */
+/*make the navbar thicker and have a background color*/
+.navbar {
+  background-color: #f4511e;
+  z-index: 1;
+  border: 0;
+  font-size: 15px !important;
+  letter-spacing: 1px;
+  opacity: 0.9;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}

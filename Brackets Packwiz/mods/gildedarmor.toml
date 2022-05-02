@@ -1,0 +1,13 @@
+name = "GildedArmor"
+filename = "gildedarmor-1.4.0+fabric-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3739/778/gildedarmor-1.4.0+fabric-1.18.2.jar"
+hash-format = "sha1"
+hash = "2fa28a6a12550d6135397652d1b5d2ee02bc88bb"
+
+[update]
+[update.curseforge]
+file-id = 3739778
+project-id = 395953

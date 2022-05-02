@@ -1,0 +1,13 @@
+name = "Orderly (Fabric) 2.0"
+filename = "orderly-2.0-1.18.x.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3576/758/orderly-2.0-1.18.x.jar"
+hash-format = "sha1"
+hash = "5ddf19a2aaec30bbfa99afb668be4d501da3e288"
+
+[update]
+[update.curseforge]
+file-id = 3576758
+project-id = 559375
